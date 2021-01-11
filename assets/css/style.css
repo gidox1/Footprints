@@ -1,0 +1,65 @@
+body {
+    background-color: white;
+}
+
+.InputComponent  {
+    display: flex;
+    flex-direction: row;
+}
+
+.mainContainer {
+    margin: auto;
+    height: 1000px;
+    width: 80%;
+    /* border: 2px solid red; */
+}
+
+textarea.form-control{
+    width: 60% !important;
+}
+
+.labelText{
+    margin-top: 5%;
+    font-size: 20px;
+}
+
+.custonBtn {
+    margin-top: 80px;
+    height: 40px;
+    width: 120px;
+    margin-left: 20px;
+    border-radius: 3px;
+}
+
+.imgClass {
+    height: 150px;
+    width: 150px;
+    border-radius: 50px;
+    border: 2px solid red;
+}
+
+.imgtag {
+    height: 100px;
+    width: 150px;
+}
+
+.flexbanner {
+    display: flex;
+    flex-direction: row;
+}
+
+.uploadImg {
+    margin-left: 10px;
+    margin-top: 80px;
+    height: 40px;
+    width: 50px;
+}
+
+.maincard {
+    margin-top: 50px;
+}
+.card-text {
+    margin-left: 10px;
+    width: 100%;
+    font-size: 16px;
+}
